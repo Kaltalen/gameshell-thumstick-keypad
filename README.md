@@ -18,3 +18,10 @@ Includes:
 - Arduino Sketch
 - Eagle files for PCB
 - STL files for printable case
+
+TODO:
+- Add arduino to PCB
+- (optional) change resistors to surface mount
+- Integrate case into new Gameshell case
+- (optional) chagne thumbsticks for FJ08k-s
+- use existing keypad connector?
